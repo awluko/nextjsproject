@@ -20,7 +20,9 @@ export default function Pagination({ totalPages }: { totalPages: number }) {
 
   return (
     <>
-      {/* NOTE: comment in this code when you get to this point in the course */}
+      {/* NOTE: comment in this code when you get to this point in the course
+        Very confused why this desction doesn't work... maybe later in the course....
+      */}
 
       {/* <div className="inline-flex">
         <PaginationArrow
